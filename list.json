@@ -1,9 +1,12 @@
 {
     "Windows 11": [
+        "rdpwrap_10.0.26100.3624.ini",
         "rdpwrap_10.0.26100.3323.ini",
         "rdpwrap_10.0.26100.3323.ini",
         "rdpwrap_10.0.26100.2454.ini",
         "rdpwrap_10.0.26100.1882.ini",
+        "rdpwrap_10.0.22621.4974.ini",
+        "rdpwrap_10.0.22621.4830.ini",
         "rdpwrap_10.0.22621.4541.ini",
         "rdpwrap_10.0.22621.4391.ini",
         "rdpwrap_10.0.22621.4249.ini",
@@ -17,6 +20,7 @@
     "Windows 10": [
         "rdpwrap_10.0.19041.4239.ini",
         "rdpwrap_10.0.19041.4355.ini",
-        "rdpwrap_10.0.19041.4474.ini"
+        "rdpwrap_10.0.19041.4474.ini",
+        "rdpwrap_10.0.19041.5678.ini"
     ]
 }
